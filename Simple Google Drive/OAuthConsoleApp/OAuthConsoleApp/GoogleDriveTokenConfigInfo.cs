@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace OAuthConsoleApp
 {
-    public class GoogleDriveConfigInfo
+    public class GoogleDriveTokenConfigInfo
     { 
-        public string CLIENTID { get; set; }
-        public string CLIENTSECRET { get; set; }
+     
         public string ACCESSTOKEN { get; set; }
         public string REFRESHTOKEN { get; set; }
-        public string EMAIL { get; set; }
-        public string BACKUPDIRECTORY { get; set; }
     }
 }

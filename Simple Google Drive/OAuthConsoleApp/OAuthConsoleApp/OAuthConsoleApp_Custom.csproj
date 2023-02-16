@@ -48,7 +48,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GoogleDriveConfigInfo.cs" />
+    <Compile Include="GoogleDriveTokenConfigInfo.cs" />
+    <Compile Include="GoogleDriveSecretConfigInfo.cs" />
     <Compile Include="PathHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

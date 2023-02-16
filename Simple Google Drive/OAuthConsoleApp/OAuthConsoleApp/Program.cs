@@ -33,14 +33,14 @@ namespace OAuthConsoleApp
         
 
         const string FilePathSecret = "C:\\GDrive\\Secret.json";
-        const string FilePathAuth = "C:\\GDrive\\Auth.json";
+        const string FilePathAuth = "C:\\GDrive\\Config.json";
         static async Task<int> Main(string[] args)
         {
 
-            GoogleDriveConfigInfo FilePathAuthConfig = JsonConvert.DeserializeObject<GoogleDriveConfigInfo>(PathHelper.TxtReader(FilePathAuth));
+            GoogleDriveSecretConfigInfo FilePathAuthConfig = JsonConvert.DeserializeObject<GoogleDriveSecretConfigInfo>(PathHelper.TxtReader(FilePathAuth));
             if (FilePathAuthConfig == null)
             {
-                FilePathAuthConfig = new GoogleDriveConfigInfo();
+                FilePathAuthConfig = new GoogleDriveSecretConfigInfo();
                 PathHelper.DosyayaYazUtf8(FilePathAuth, PathHelper.ToJson(FilePathAuthConfig), true);
             }
             
@@ -193,7 +193,7 @@ namespace OAuthConsoleApp
 
                     string accessToken = tokenEndpointDecoded["access_token"];
                     string refreshToken = tokenEndpointDecoded["refresh_token"];
-                    GoogleDriveConfigInfo __GoogleDriveConfigInfo = new GoogleDriveConfigInfo();
+                    GoogleDriveTokenConfigInfo __GoogleDriveConfigInfo = new GoogleDriveTokenConfigInfo();
                     __GoogleDriveConfigInfo.ACCESSTOKEN = accessToken;
                     __GoogleDriveConfigInfo.REFRESHTOKEN = refreshToken;
                     PathHelper.DosyayaYazUtf8(FilePathSecret, PathHelper.ToJson(__GoogleDriveConfigInfo));
