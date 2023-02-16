@@ -13,5 +13,6 @@ namespace OAuthConsoleApp
         public string ACCESSTOKEN { get; set; }
         public string REFRESHTOKEN { get; set; }
         public string EMAIL { get; set; }
+        public string BACKUPDIRECTORY { get; set; }
     }
 }
