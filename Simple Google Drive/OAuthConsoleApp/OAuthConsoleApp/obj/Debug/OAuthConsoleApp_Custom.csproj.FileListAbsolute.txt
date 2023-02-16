@@ -9,3 +9,14 @@ C:\TFSTEMN11\SafHali\DIGER PROJELER\Simple Google Drive\OAuthConsoleApp\OAuthCon
 C:\TFSTEMN11\SafHali\DIGER PROJELER\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.csproj.CopyComplete
 C:\TFSTEMN11\SafHali\DIGER PROJELER\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.exe
 C:\TFSTEMN11\SafHali\DIGER PROJELER\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.pdb
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\OAuthConsoleApp_Custom.exe.config
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\OAuthConsoleApp_Custom.exe
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\OAuthConsoleApp_Custom.pdb
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.csproj.AssemblyReference.cache
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.csproj.SuggestedBindingRedirects.cache
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.csproj.CoreCompileInputs.cache
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.csproj.CopyComplete
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.exe
+C:\github\GDriveTokenGet\Simple Google Drive\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp_Custom.pdb
